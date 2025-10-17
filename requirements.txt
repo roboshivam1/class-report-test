@@ -1,7 +1,8 @@
 streamlit
-google.generativeai
+google-generativeai
 torch
 torchaudio
 tqdm
 numba
 openai-whisper
+ffmpeg-python
