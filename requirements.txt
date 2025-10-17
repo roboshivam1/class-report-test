@@ -1,3 +1,7 @@
-whisper
 streamlit
 google.generativeai
+torch
+torchaudio
+tqdm
+numba
+openai-whisper
