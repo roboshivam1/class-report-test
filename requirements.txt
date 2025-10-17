@@ -1,0 +1,3 @@
+whisper
+streamlit
+google.generativeai
